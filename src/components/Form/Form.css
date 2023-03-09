@@ -1,0 +1,29 @@
+Form {
+    padding: 20px 20px;
+    width: 30%;
+    background-color: #E4E4E4;
+    border-radius: 5px;
+    text-align: center;
+  }  
+
+
+  input {
+    width: 90%;
+    height: 30px;
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 5px
+
+  }
+
+  button {
+    background-color:#0373C7;
+    border: 0px;
+    color: white;
+    width: 98%;
+    height: 40px;
+    margin-top: 8px;
+    text-align: center;
+    border-radius: 5px
+
+  }
